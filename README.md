@@ -1,4 +1,4 @@
-<h1>Olá,sou a Laura!</h1>
+<h1>Olá, sou a Laura!</h1>
 
 👩‍💻 Sou profissional em transição de carreira: deixei minha trajetória no Turismo para seguir um sonho antigo, aprender Tecnologia.
 
