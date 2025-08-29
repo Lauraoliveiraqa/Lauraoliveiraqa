@@ -2,7 +2,7 @@
 
 👩‍💻 Sou profissional em transição de carreira: deixei minha trajetória no Turismo para seguir um sonho antigo, aprender Tecnologia.
 
-_Dicidi unir minha paixão por qualidade e experiências positivas à tecnologia._ 
+_Decidi unir minha paixão por qualidade e experiências positivas à tecnologia._ 
 
 Comecei estudando de forma autodidata e atualmente sou aluna do programa **QA Engineer da Cesar School (Fast)**, onde tenho consolidado conhecimentos técnicos.
 
